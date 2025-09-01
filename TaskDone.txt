@@ -1,0 +1,48 @@
+RAC
+  1.) How to make a new project. 
+  2.) List of task completed 
+  3.) Deployment.
+  4.) Execution of Service with ITK Handler and shell.
+  5.) JDBC.
+  6.) Extension of plugin.xml
+  7.) Import of Java library
+  8.) Exection of sample handler and activator. 
+  9.) Types Application window and shell. 
+ 10.) Basic of Designing.
+ 11.) DML to task , Task to part relation traversion and vice versa.
+ 12.)Process history finding and Execution processes.
+ 
+ 
+  RAC Task Completed
+  -> 
+  User management,
+  Project Access Extension Request
+  Product Config Report generation
+  DML Property Updation
+  DML CheckList
+  -> 
+  Perform restructuring,
+  BOM expansion multi level.
+  Revision rule and closure rule.  
+  EBOM-MBOM Consumption report.
+  DML report, 
+  EPA Report and EPA Creation dialog 
+  DML Restructring report, 
+  Vehicle extension restructring.
+  SVR Comparision Report
+ 
+ 
+ 
+ 
+ ITK Task Completed
+
+1.)  Requirement Specificaiton 
+2.)  DataCollectionExe , DataCollectionNonErc
+3.)  PartDataExpansion
+4.)  Project Access Extension Request
+5.)  DML Property Updation
+6.)  ProductConfig Report
+7.)  Variant Compare Report. 
+8.)  Auto performSignOff
+9.)  Availabilty Rule Creation
+10.) Load multi Availabilty rule data
